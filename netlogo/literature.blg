@@ -1,0 +1,51 @@
+This is BibTeX, Version 0.99d (TeX Live 2015)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: literature.aux
+The style file: unsrt.bst
+Database file #1: bibliography.bib
+Warning--empty title in tcs
+Warning--empty booktitle in ves
+Warning--empty booktitle in gao
+Warning--empty booktitle in Li
+You've used 16 entries,
+            1791 wiz_defined-function locations,
+            561 strings with 6888 characters,
+and the built_in function-call counts, 5095 in all, are:
+= -- 484
+> -- 185
+< -- 14
++ -- 66
+- -- 50
+* -- 343
+:= -- 739
+add.period$ -- 61
+call.type$ -- 16
+change.case$ -- 15
+chr.to.int$ -- 0
+cite$ -- 20
+duplicate$ -- 240
+empty$ -- 485
+format.name$ -- 50
+if$ -- 1195
+int.to.chr$ -- 0
+int.to.str$ -- 16
+missing$ -- 16
+newline$ -- 91
+num.names$ -- 26
+pop$ -- 42
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 156
+stack$ -- 0
+substring$ -- 393
+swap$ -- 103
+text.length$ -- 14
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 4
+while$ -- 51
+width$ -- 18
+write$ -- 201
+(There were 4 warnings)

@@ -1,0 +1,126 @@
+\begin{thebibliography}{10}
+
+\bibitem{Promise}
+Juan~A. Garay, Markus Jakobsson, and Philip~D. MacKenzie.
+\newblock Abuse-free optimistic contract signing.
+\newblock In Michael~J. Wiener, editor, {\em Advances in Cryptology - {CRYPTO}
+  '99, 19th Annual International Cryptology Conference, Santa Barbara,
+  California, USA, August 15-19, 1999, Proceedings}, volume 1666 of {\em
+  Lecture Notes in Computer Science}, pages 449--466. Springer, 1999.
+
+\bibitem{Elgamal}
+Taher~El Gamal.
+\newblock A public key cryptosystem and a signature scheme based on discrete
+  logarithms.
+\newblock {\em {IEEE} Transactions on Information Theory}, 31(4):469--472,
+  1985.
+
+\bibitem{asokan}
+N.~Asokan, Victor Shoup, and Michael Waidner.
+\newblock Optimistic fair exchange of digital signatures.
+\newblock {\em {IEEE} Journal on Selected Areas in Communications},
+  18(4):593--610, 2000.
+
+\bibitem{muka}
+Aybek Mukhamedov and Mark Ryan.
+\newblock Improved multi-party contract signing.
+\newblock In Sven Dietrich and Rachna Dhamija, editors, {\em Financial
+  Cryptography and Data Security, 11th International Conference, {FC} 2007, and
+  1st International Workshop on Usable Security, {USEC} 2007, Scarborough,
+  Trinidad and Tobago, February 12-16, 2007. Revised Selected Papers}, volume
+  4886 of {\em Lecture Notes in Computer Science}, pages 179--191. Springer,
+  2007.
+
+\bibitem{wang-rsa}
+G.~Wang.
+\newblock An abuse-free fair contract-signing protocol based on the rsa
+  signature.
+\newblock {\em IEEE Transactions on Information Forensics and Security},
+  5(1):158--168, 2010.
+\newblock cited By 24.
+
+\bibitem{tcs}
+M.~Fischlin.
+\newblock {\em Trapdoor Commitment Schemes and Their Applications}, 2001.
+\newblock cited By 22.
+
+\bibitem{Original}
+Barbara Kordy and Saša Radomirović.
+\newblock Constructing optimistic multi-party contract signing protocols.
+\newblock In Stephen Chong, editor, {\em 25th {IEEE} Computer Security
+  Foundations Symposium, {CSF} 2012, Cambridge, MA, USA, June 25-27, 2012},
+  pages 215--229. {IEEE}, 2012.
+
+\bibitem{bounds}
+Juan~A. Garay and Philip~D. MacKenzie.
+\newblock Abuse-free multi-party contract signing.
+\newblock In Prasad Jayanti, editor, {\em Distributed Computing, 13th
+  International Symposium, Bratislava, Slavak Republic, September 27-29, 1999,
+  Proceedings}, volume 1693 of {\em Lecture Notes in Computer Science}, pages
+  151--165. Springer, 1999.
+
+\bibitem{DAG-MPCS}
+Sjouke Mauw and Sasa Radomirovic.
+\newblock Generalizing multi-party contract signing.
+\newblock In Riccardo Focardi and Andrew~C. Myers, editors, {\em Principles of
+  Security and Trust - 4th International Conference, {POST} 2015, Held as Part
+  of the European Joint Conferences on Theory and Practice of Software, {ETAPS}
+  2015, London, UK, April 11-18, 2015, Proceedings}, volume 9036 of {\em
+  Lecture Notes in Computer Science}, pages 156--175. Springer, 2015.
+
+\bibitem{ves}
+Giuseppe Ateniese.
+\newblock Efficient verifiable encryption (and fair exchange) of digital
+  signatures.
+\newblock pages 138--146, 1999.
+\newblock cited By 94.
+
+\bibitem{rsa-2}
+X.~Chen, F.~Zhang, H.~Tian, Q.~Wu, Y.~Mu, J.~Kim, and K.~Kim.
+\newblock Three-round abuse-free optimistic contract signing with everlasting
+  secrecy.
+\newblock {\em Lecture Notes in Computer Science (including subseries Lecture
+  Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)}, 6052
+  LNCS:304--311, 2010.
+\newblock cited By 0.
+
+\bibitem{gao}
+W.~Gao, F.~Li, and B.~Xu.
+\newblock An abuse-free optimistic fair exchange protocol based on bls
+  signature.
+\newblock volume~2, pages 278--282, 2008.
+\newblock cited By 3.
+
+\bibitem{Li}
+X.~Li, Z.~Wang, L.~Chen, and Q.~Wang.
+\newblock A multi-party contract signing protocol and its formal analysis in
+  strand space model.
+\newblock volume~3, pages 556--559, 2009.
+\newblock cited By 0.
+
+\bibitem{Chen}
+X.~Chen, F.~Zhang, H.~Tian, Q.~Wu, Y.~Mu, J.~Kim, and K.~Kim.
+\newblock Three-round abuse-free optimistic contract signing with everlasting
+  secrecy.
+\newblock {\em Lecture Notes in Computer Science (including subseries Lecture
+  Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)}, 6052
+  LNCS:304--311, 2010.
+\newblock cited By 4.
+
+\bibitem{bb}
+S.~Heidarvand and J.L. Villar.
+\newblock A fair and abuse-free contract signing protocol from boneh-boyen
+  signature.
+\newblock {\em Lecture Notes in Computer Science (including subseries Lecture
+  Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)}, 6711
+  LNCS:125--140, 2011.
+\newblock cited By 1.
+
+\bibitem{As}
+A.A. Al-Saggaf and L.~Ghouti.
+\newblock Efficient abuse-free fair contract-signing protocol based on an
+  ordinary crisp commitment scheme.
+\newblock {\em IET Information Security}, 9(1):50--58, 2015.
+\newblock cited By 0.
+
+\end{thebibliography}
